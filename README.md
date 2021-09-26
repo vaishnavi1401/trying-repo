@@ -1,14 +1,14 @@
-Reconnect
+# Reconnect
 
-![](./images/media/image5.png)
+![](./images/media/image5.jpeg)
 
-About the project:
+## About the project:
 
 The web-based application allows users to add and manage contacts. The
 application supports unlimited users and provides several features for
 socializing.
 
-The system supports two types of users:
+#### The system supports two types of users:
 
 -   System administrator : Can monitor activities of the users, they do
      not have access the users and contacts database information.
@@ -17,7 +17,7 @@ The system supports two types of users:
     contacts to the same. They can have friends and performs various
      activities.
 
-Terminologies
+#### Terminologies
 
 -   System Administrator: The administrator of the application.
 
@@ -30,7 +30,7 @@ Terminologies
 
 -   Friends are (registered) Users of the system.
 
-Applications Features
+#### Applications Features
 
 -   Users must register to the system
 
@@ -54,7 +54,7 @@ Applications Features
 -   System administrator cannot view or modify the user's database; They
      can disable or delete users .
 
-Built With:
+## Built With:
 
 Ide Used:Eclipse\[Enterprise Edition\]
 
@@ -68,23 +68,15 @@ Database:mysql -version:8.0.20
 
 Getting Started:
 
-Prerequisites:
+### Prerequisites:
 
-Eclipse Ide:
+[Eclipse Ide](https://www.eclipse.org/downloads/) Download eclipse ide according to you system requirements
 
-[[https://www.eclipse.org/downloads/]](https://www.eclipse.org/downloads/)
+[Java 8](https://www.oracle.com/java/technologies/downloads/)
 
-Download eclipse ide according to you system requirements
+[Mysql](https://www.mysql.com/downloads/)
 
-Java 8:
-
-[[https://www.oracle.com/java/technologies/downloads/]](https://www.oracle.com/java/technologies/downloads/)
-
-Mysql
-
-[[https://www.mysql.com/downloads/]](https://www.mysql.com/downloads/)
-
-Installation:
+## Installation:
 
 Creating Database
 
@@ -100,15 +92,15 @@ Step 3:
 
 Copy paste the commands mentioned in the link :
 
-[[https://docs.google.com/document/d/1PBZghdAOYe4YpV59qCA5nFp78hdijFdL0WLj2TBO0ac/edit]](https://docs.google.com/document/d/1PBZghdAOYe4YpV59qCA5nFp78hdijFdL0WLj2TBO0ac/edit)
+[database](https://docs.google.com/document/d/1PBZghdAOYe4YpV59qCA5nFp78hdijFdL0WLj2TBO0ac/edit)
 
-Importing the Project and running it
+## Importing the Project and running it
 
 Step 1:
 
 Clone the repository :
 
-[[https://github.com/vaishnavi1401/Divide-n-ConquErors.git]](https://github.com/vaishnavi1401/Divide-n-ConquErors.git)
+[https://github.com/vaishnavi1401/Divide-n-ConquErors.git](https://github.com/vaishnavi1401/Divide-n-ConquErors.git)
 
 Step 2:
 
@@ -130,20 +122,14 @@ Step 5:
 
 Run the Project on your Tomcat Server
 
-Some Snippets
+## Some Snippets
+#### Admin Login:
+![](./images/media/image1.jpeg)
+#### User Login:
+![](./images/media/image3.png)
 
-Landing Page:
-
-![](./images/media/image2.png)
-
-Login Page:
-
+#### Landing Page:
+![](./images/media/image2.jpeg)
+#### Login Page:
 ![](./images/media/image4.png)
 
-Admin Login:
-
-![](./images/media/image1.png)
-
-User Portal
-
-![](./images/media/image3.png)
