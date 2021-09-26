@@ -124,7 +124,7 @@ Run the Project on your Tomcat Server
 
 ## Some Snippets
 #### Admin Login:
-![](./images/media/image1.jpeg)
+![](./images/media/image1.png)
 #### User Login:
 ![](./images/media/image3.png)
 
